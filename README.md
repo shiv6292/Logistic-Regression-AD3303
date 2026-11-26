@@ -1,9 +1,9 @@
-# Logistic-Regression-AD3303
-# RCA 2 – Logistic Regression
+# Binary Classification-AD3303
+# RCA 2 – Binary Classification
 
 ## Student Details
 - **Roll Number:** AD3303
-- **Project:** Activity 2 – Logistic Regression
+- **Project:** Activity 2 – Binary Classification
 - **Subject:** RCA
 
 ## 1. Aim
